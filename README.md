@@ -1,7 +1,7 @@
 Bunny Finder
 An Electron application that uses YOLOv5 to detect rabbits in photos.
 
-![Bunny Finder Interface](screenshots/main-interface.png)
+![Bunny Finder Interface](screenshots/main-interface.jpg)
 
 Features
 Batch processing of image folders
